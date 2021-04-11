@@ -26,9 +26,9 @@
  <Property name="Autor" id="10020" index="0" type="7">STEEL</Property>
  <Property name="Fecha de creación" id="10021" index="0" type="14">1614901099</Property>
  <Property name="Ultimo responsable: nombre de inicio de sesión" id="10022" index="0" type="7">STEEL</Property>
- <Property name="Fecha de modificación" id="10023" index="0" type="14">1616620617</Property>
+ <Property name="Fecha de modificación" id="10023" index="0" type="14">1618141821</Property>
  <Property name="Última traducción: fecha" id="10024" index="0" type="14">1466431149</Property>
- <Property name="Fecha del día" id="10027" index="0" type="14">1616620865</Property>
+ <Property name="Fecha del día" id="10027" index="0" type="14">1618141821</Property>
  <Property name="Inicio de proyecto" id="10028" index="0" type="14">1614901099</Property>
  <Property name="Formatos de estructura principal" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Ambito especial" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@Egy se;pt_PT@nenhum;ko_KR@없음;ja_JP@なし;tr_TR@yok;</Property>
@@ -36,7 +36,7 @@
  <Property name="Ultimo número de compilación EPLAN utilizado" id="10044" index="0" type="7">10395</Property>
  <Property name="Ruta de proyecto (completa)" id="10045" index="0" type="7">D:\Clase\ARI\EPLAN</Property>
  <Property name="Hora de creación" id="10046" index="0" type="7">0:38:19</Property>
- <Property name="Hora de modificación" id="10047" index="0" type="7">22:16:57</Property>
+ <Property name="Hora de modificación" id="10047" index="0" type="7">13:50:21</Property>
  <Property name="Última traducción: Hora" id="10048" index="0" type="7">15:59:09</Property>
  <Property name="Formato de estructura de páginas" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Formato de estructura de puntos de interrupción" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -346,7 +346,13 @@
  <Property name="Internal: Mechanic format description" id="10434" index="0" type="15">##_##@703/SchemeDataProject;</Property>
  <Property name="Colocar tipo de documento al principio del nombre de página" id="10450" index="0" type="1">0</Property>
  <Property name="Idioma de origen" id="10500" index="0" type="4">27</Property>
- <Property name="Copia de seguridad de datos: método" id="10514" index="0" type="4">-1</Property>
+ <Property name="Copia de seguridad de datos: salvaguardar por completo" id="10510" index="0" type="1">1</Property>
+ <Property name="Copia de seguridad de datos: salvaguardar documentos externos" id="10511" index="0" type="1">1</Property>
+ <Property name="Copia de seguridad de datos: salvaguardar ficheros de imágenes" id="10512" index="0" type="1">1</Property>
+ <Property name="Copia de seguridad de datos: reorganizar proyecto" id="10513" index="0" type="1">0</Property>
+ <Property name="Copia de seguridad de datos: método" id="10514" index="0" type="4">2</Property>
+ <Property name="Copia de seguridad de datos: medio de seguridad" id="10515" index="0" type="4">0</Property>
+ <Property name="Copia de seguridad de datos: tamaño de pieza por e-mail en MB" id="10516" index="0" type="6">0</Property>
  <Property name="Internal: Use defined working sections" id="10530" index="0" type="1">0</Property>
  <Property name="Campo adicional" id="10901" index="1" type="15">de_DE@EPLAN Beispielprojekt;en_US@EPLAN sample project;nl_NL@EPLAN voorbeeldproject;fr_FR@Exemple de projet EPLAN;es_ES@Projecto de ejemplo EPLAN;sv_SE@EPLAN exempelprojekt;da_DK@EPLAN Projekteksempel;zh_CN@EPLAN 示例项目;ru_RU@Образец проекта EPLAN;pl_PL@Przykładowy projekt EPLAN;pt_BR@Exemplo de projeto EPLAN;cs_CZ@Vzorový projekt EPLAN;it_IT@Progetto di esempio EPLAN;hu_HU@EPLAN példa projekt;pt_PT@Exemplo de projecto EPLAN;ko_KR@EPLAN 샘플 프로젝트;ja_JP@EPLAN サンプル プロジェクト;tr_TR@EPLAN örnek projesi;</Property>
  <Property name="Tipo de proyecto" id="10902" index="0" type="4">1</Property>
